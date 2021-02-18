@@ -1,0 +1,36 @@
+.wrapper {
+    width: 500px;
+    margin: 10px auto;
+    font-size: 14px;
+    background-color: #fff;
+    border: 1px solid #f1f1f1;
+    padding: 20px;
+  }
+
+  .comment_inut div{
+      margin-bottom: 20px;
+  }
+
+  .comment_inut span{
+    display: inline-block;
+
+    width: 150px;
+    vertical-align: top;
+  }
+
+  .comment_inut input, .comment_inut textarea{
+        width: 300px;
+  }
+
+  .comment b{margin-right: 20px;}
+
+  .a-r{text-align: right;}
+
+  .btn{padding: 5px 20px;border: 0; background-color: #37A2D1;color:#fff;font-weight: 700;}
+  .comment-delete{color:red;}
+
+  code {
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+    padding: 0px 2px;
+  }
